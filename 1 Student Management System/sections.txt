@@ -1,0 +1,8 @@
+SECTION:BSIT 2-5
+Vecina,IT,89.8
+Carida,IT,96.9
+Reyes,IT,87.2
+Santiago,IT,93.59
+Atilano,IT,87.66
+Geslani,IT,86.21
+ENDSECTION
